@@ -27,7 +27,7 @@
 ## CV
 You can download/view my CV as [PDF File](https://drive.google.com/file/d/1tVwnCEYGn35zPi4RmxKib2dy_xgpH5kU/view?usp=drive_link)
 ## Skills
-You can find examples of the described skills in the [Examples of my work] section.
+You can find examples of the described skills in the [#examples-of-my-work] section.
 
 __Manual testing__
   * can perform manual functional and usability testing of web applications
@@ -71,5 +71,5 @@ These below sample bugs are founded in my last project which was a shipping doma
   * Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1cxSpuiq7fJdJ6vMsxDxBJ4zhgB_viHsC/view?usp=sharing).
   * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Lzp0OVHE31IOOE_lTtLB_0HGdXvOS7ie/view?usp=sharing).
 #### Test Cases
-Here is a [pdf file](https://drive.google.com/file/d/1zvLkq5kLjTCiXM7apNjEXdVb1q9SAZMO/view?usp=drive_link), where you can view my sample testcases forall types of testing like API, UI and SQL.
+Here is a [pdf file](https://drive.google.com/file/d/1zvLkq5kLjTCiXM7apNjEXdVb1q9SAZMO/view?usp=drive_link), where you can view my sample testcases for all types of testing like API, UI and SQL.
 
