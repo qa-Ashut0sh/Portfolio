@@ -59,10 +59,15 @@ __SQL databases__
 __Jira__
   * know how to create bug reports
   * able to create projects and track their progress
+  * able to write and execute test cases in Jira-zephyr
     
 __Postman__
   * know how to test api
   * know how to use postman runner and check api performance
+    
+__Jmeter__
+  * know how to perfom load testing
+  * know how to genrate performance test reports
     
 ## Examples of my work
 ### Bug reports and test cases of work in Jira
@@ -73,4 +78,10 @@ These below sample bugs are founded in my last project which was a shipping doma
   * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Lzp0OVHE31IOOE_lTtLB_0HGdXvOS7ie/view?usp=sharing).
 #### Test Cases
 Here is a [pdf file](https://drive.google.com/file/d/1zvLkq5kLjTCiXM7apNjEXdVb1q9SAZMO/view?usp=drive_link), where you can view my sample testcases for all types of testing like API, UI and SQL.
+##Additional Points
+I am also working as a freelnace/part-time blog article writer for one of my [US client](https://automatenow.io/), written over 60+ from articles in testing domain.
+  * [Sample article #1](https://automatenow.io/what-is-automated-testing/)
+  * [Sample article #2](https://automatenow.io/api-design-development-with-postman/)
+  * [Sample article #3](https://automatenow.io/what-is-git/)
+ 
 
