@@ -71,5 +71,5 @@ __Jira__
   * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Qn_Fe5gwdEQ-f4PKpg115CZaWl3_N705/view?usp=sharing).
 * An example of a project in Jira. Check [the screenshot](https://drive.google.com/file/d/1uN7R4SGWYZ0zn45id8_CeSzs4sn68BWq/view?usp=sharing).
 #### Test Cases
-Here is a [pdf file](https://drive.google.com/file/d/1zvLkq5kLjTCiXM7apNjEXdVb1q9SAZMO/view?usp=drive_link), where you can view my sample testcases of both API, UI and SQL.
+Here is a [pdf file](https://drive.google.com/file/d/1zvLkq5kLjTCiXM7apNjEXdVb1q9SAZMO/view?usp=drive_link), where you can view my sample testcases forall types of testing like API, UI and SQL.
 
