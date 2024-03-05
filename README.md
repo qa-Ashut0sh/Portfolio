@@ -1,6 +1,6 @@
 # Portfolio
 <p align="center">
-  <img src="https://github.com/qa-Ashut0sh/Portfolio/assets/162279282/ab633eb2-77c6-462f-af07-3c6b25d71202">
+  <img src="![image](https://github.com/qa-Ashut0sh/Portfolio/assets/162279282/81a92a6d-ec1e-458d-a6dc-520a832a56eb)">
 </p>
 
 - [About me](#about-me)
