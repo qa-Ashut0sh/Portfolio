@@ -63,14 +63,13 @@ __Jira__
   * know how to create bug reports
   * able to create projects and track their progress
 ## Examples of my work
-### Bug reports and work in Jira
-#### Project-1
+### Bug reports and test cases of work in Jira
+#### Bugs
 - Several bugs found on [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru) and reported:
   * Bug #1. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Ypqw992_r6YgXNdqslH1FVW3Y33sT6ip/view?usp=sharing).
   * Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/15KB2fIqWO4uIUbAMejk8ZZrkpPfJzz1m/view?usp=sharing).
   * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Qn_Fe5gwdEQ-f4PKpg115CZaWl3_N705/view?usp=sharing).
 * An example of a project in Jira. Check [the screenshot](https://drive.google.com/file/d/1uN7R4SGWYZ0zn45id8_CeSzs4sn68BWq/view?usp=sharing).
-#### Project-2
-
-#### Project-3
+#### Test Cases
+Here is a [pdf file](https://drive.google.com/file/d/1zvLkq5kLjTCiXM7apNjEXdVb1q9SAZMO/view?usp=drive_link), where you can view my sample testcases of both API, UI and SQL.
 
