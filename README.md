@@ -23,6 +23,7 @@
 You can download my CV as [a PDF from my Google Drive]
 ## Skills
 You can find examples of the described skills in the [Examples of my work] section.
+
 __Manual testing__
   * can perform manual functional and usability testing of web applications
   * gained hands-on experience by testing applications created for educational purposes
