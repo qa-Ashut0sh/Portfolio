@@ -27,7 +27,7 @@
 ## CV
 You can download/view my CV as [PDF File](https://drive.google.com/file/d/1tVwnCEYGn35zPi4RmxKib2dy_xgpH5kU/view?usp=drive_link)
 ## Skills
-You can find examples of the described skills in the [#examples-of-my-work] section.
+You can find examples of the described skills in the [Example of my work](#examples-of-my-work) section.
 
 __Manual testing__
   * can perform manual functional and usability testing of web applications
