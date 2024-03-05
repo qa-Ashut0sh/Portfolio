@@ -1,4 +1,8 @@
 # Portfolio
+- [About me](#about-me)
+- [CV](#cv)
+- [Skills](#skills)
+- [Tools](#tools)
 ## About me
 1. Results-driven QA Engineer with 3 years of experience in Software Testing, skilled in ensuring the delivery of high-quality software products.
 
