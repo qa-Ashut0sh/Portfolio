@@ -34,20 +34,17 @@ You can download/view my CV as [PDF File](https://drive.google.com/file/d/1tVwnC
 You can find examples of the described skills in the [Example of my work](#examples-of-my-work) section.
 
 __Manual testing__
-  * can perform manual functional and usability testing of web applications
-  * gained hands-on experience by testing applications created for educational purposes
+  * can perform manual functional and usability testing of web applications and mobile applications
+  * gained hands-on experience by testing applications created for vrious domians like: tech, healthcare, shipping, e-commerce etc.
+
+__API testing__
+  * know the difference between SOAP and REST APIs
+  * gained experience through manual testing of APIs in Postman
+  * know how to manipulate requests and create test cases using the SoapUI tool
 
 __Test analysis & design__
   * familiar with functional decomposition of products, creating state transition diagrams, writing use cases
   * can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
-
-__API testing__
-  * know the difference between SOAP and REST APIs
-  * gained experience through manual testing of APIs created for educational purposes
-  * know how to manipulate requests and create test cases using the SoapUI tool
-
-__Exploratory testing__
-  * capable of using Whittaker’s test tours and creating cheat-lists for testing web applications
 
 __Test documentation__
   * can create test cases and checklists and know how and in which situations to use them effectively
@@ -59,14 +56,14 @@ __SQL databases__
   * know the difference between joins and unions and can use them in queries
 ## Tools
 
-__TestRail__
-  * know how to create test cases and test suits
-  * able to run created test cases
-  * know how to use dashboards and statistics
-
 __Jira__
   * know how to create bug reports
   * able to create projects and track their progress
+    
+__Postman__
+  * know how to test api
+  * know how to use postman runner and check api performance
+    
 ## Examples of my work
 ### Bug reports and test cases of work in Jira
 #### Bugs
