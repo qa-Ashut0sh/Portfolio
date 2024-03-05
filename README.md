@@ -1,4 +1,5 @@
 # Portfolio
+![Portfolio](https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fthumbnails%2F011%2F976%2F274%2Fsmall%2Fstick-figures-welcome-free-vector.jpg&tbnid=pdKV5PxpBqLL_M&vet=12ahUKEwjyrreY-NyEAxV3n2MGHclMCIcQMygJegUIARCIAQ..i&imgrefurl=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fwelcome&docid=v-k5n4e_C90LFM&w=394&h=200&q=welcome&ved=2ahUKEwjyrreY-NyEAxV3n2MGHclMCIcQMygJegUIARCIAQ)
 - [About me](#about-me)
 - [CV](#cv)
 - [Skills](#skills)
