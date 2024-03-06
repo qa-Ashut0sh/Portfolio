@@ -10,9 +10,9 @@
 - [Examples of my work](#examples-of-my-work)
 - [Additional Points](#additional-points)
 ## About me
-1. Results-driven QA Engineer with 3 years of experience in Software Testing, skilled in ensuring the delivery of high-quality software products.
+1. Results-driven QA Engineer with **3 years** of experience in Software Testing, skilled in ensuring the delivery of high-quality software products.
 
-2. Expertise in various testing areas, including API, UI, Performance and Database, ensuring thorough and practical testing.
+2. Expertise in various testing areas, including **API**, **UI**, **Performance** and **Database**, ensuring thorough and practical testing.
 
 3. Proficient in writing, executing, and reviewing test cases; able to identify and report defects to support efficient bug resolution.
 
