@@ -1,8 +1,4 @@
 # Portfolio
-<p align="center">
-  <img src=https://shorturl.at/iGJX1>
-</p>
-
 - [About me](#about-me)
 - [CV](#cv)
 - [Skills](#skills)
