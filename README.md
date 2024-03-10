@@ -1,6 +1,6 @@
 # Portfolio
 <p align="center">
-  <img src=https://www.google.com/imgres?imgurl=https%3A%2F%2Fmarketplace.canva.com%2FEAFYC8yWXio%2F1%2F0%2F1600w%2Fcanva-green-minimalist-landscape-quote-desktop-wallpaper-OuM9mjCoT60.jpg&tbnid=25Hi_t4G6vUMnM&vet=12ahUKEwjlm4iT-uiEAxW0smMGHQgIDNsQMygQegQIARBz..i&imgrefurl=https%3A%2F%2Fwww.canva.com%2Fdesktop-wallpapers%2Ftemplates%2Fquote%2F&docid=aIuDxQ_49f8QSM&w=1600&h=900&q=landscape%20quotes%20wallpaper&ved=2ahUKEwjlm4iT-uiEAxW0smMGHQgIDNsQMygQegQIARBz>
+  <img src=https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Finspirational-quotes-work-hard-dream-big-never-give-up_698447-1272.jpg%3Fsize%3D626%26ext%3Djpg%26ga%3DGA1.1.1395880969.1709942400%26semt%3Dais&tbnid=Z6Oyau1UT6J2PM&vet=12ahUKEwjlm4iT-uiEAxW0smMGHQgIDNsQMyhfegUIARCrAg..i&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fmotivational-quotes-desktop-wallpaper&docid=FGWFOHGOf0OekM&w=626&h=416&q=landscape%20quotes%20wallpaper&ved=2ahUKEwjlm4iT-uiEAxW0smMGHQgIDNsQMyhfegUIARCrAg>
 </p>
 
 - [About me](#about-me)
