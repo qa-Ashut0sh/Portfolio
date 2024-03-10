@@ -1,6 +1,6 @@
 # Portfolio
 <p align="center">
-  <img src="https://stock.adobe.com/in/images/small-steps-every-day-workout-fitness-gym-motivation-quote-creative-typography-modern/131367871">
+  <img src=https://stock.adobe.com/in/images/small-steps-every-day-workout-fitness-gym-motivation-quote-creative-typography-modern/131367871>
 </p>
 
 - [About me](#about-me)
