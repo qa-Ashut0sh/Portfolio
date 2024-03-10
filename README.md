@@ -1,6 +1,6 @@
 # Portfolio
 <p align="center">
-  <img src="https://github.com/qa-Ashut0sh/Portfolio/assets/162279282/81a92a6d-ec1e-458d-a6dc-520a832a56eb">
+  <img src="https://unsplash.com/photos/blue-work-harder-neon-signage-sm3Ub_IJKQg">
 </p>
 
 - [About me](#about-me)
