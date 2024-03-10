@@ -1,6 +1,6 @@
 # Portfolio
 <p align="center">
-  <img src=https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Finspirational-quotes-work-hard-dream-big-never-give-up_698447-1272.jpg%3Fsize%3D626%26ext%3Djpg%26ga%3DGA1.1.1395880969.1709942400%26semt%3Dais&tbnid=Z6Oyau1UT6J2PM&vet=12ahUKEwjlm4iT-uiEAxW0smMGHQgIDNsQMyhfegUIARCrAg..i&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fmotivational-quotes-desktop-wallpaper&docid=FGWFOHGOf0OekM&w=626&h=416&q=landscape%20quotes%20wallpaper&ved=2ahUKEwjlm4iT-uiEAxW0smMGHQgIDNsQMyhfegUIARCrAg>
+  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Finspirational-quotes-work-hard-dream-big-never-give-up_698447-1272.jpg%3Fsize%3D626%26ext%3Djpg%26ga%3DGA1.1.1395880969.1709942400%26semt%3Dais&tbnid=Z6Oyau1UT6J2PM&vet=12ahUKEwjlm4iT-uiEAxW0smMGHQgIDNsQMyhfegUIARCrAg..i&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fmotivational-quotes-desktop-wallpaper&docid=FGWFOHGOf0OekM&w=626&h=416&q=landscape%20quotes%20wallpaper&ved=2ahUKEwjlm4iT-uiEAxW0smMGHQgIDNsQMyhfegUIARCrAg">
 </p>
 
 - [About me](#about-me)
