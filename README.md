@@ -69,7 +69,7 @@ __Jmeter__
 ## Examples of my work
 ### Bug reports and test cases of work in Jira
 #### Bugs
-These below sample bugs are founded in my last project which was a shipping domain and reported in Jira:
+The below sample bugs are found in my last project, which was a shipping domain and reported in Jira:
   * Bug #1. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1MF5nk3PN2rTo6es-ggwOkSqdpWVecqx4/view?usp=sharing).
   * Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1cxSpuiq7fJdJ6vMsxDxBJ4zhgB_viHsC/view?usp=sharing).
   * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Lzp0OVHE31IOOE_lTtLB_0HGdXvOS7ie/view?usp=sharing).
