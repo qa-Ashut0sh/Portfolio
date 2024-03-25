@@ -76,7 +76,7 @@ These below sample bugs are founded in my last project which was a shipping doma
 #### Test Cases
 Here is a [pdf file](https://drive.google.com/file/d/1zvLkq5kLjTCiXM7apNjEXdVb1q9SAZMO/view?usp=drive_link), where you can view my sample testcases for all types of testing like API, UI and SQL.
 ## Additional Points
-I am also working as a freelnace/part-time blog article writer for one of my [US client](https://automatenow.io/), written over 60+ articles in testing domain.
+I am also working as a freelancer/part-time blog article writer for one of my [US client](https://automatenow.io/), written over 60+ articles in testing domain.
   * [Sample article #1](https://automatenow.io/what-is-automated-testing/)
   * [Sample article #2](https://automatenow.io/api-design-development-with-postman/)
   * [Sample article #3](https://automatenow.io/what-is-git/)
