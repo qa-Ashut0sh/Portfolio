@@ -26,7 +26,7 @@
 
 10. I continuously learn and grow within software testing to deliver optimal results and ensure customer satisfaction.
 ## CV
-You can download/view my CV as [PDF File](https://drive.google.com/file/d/1tVwnCEYGn35zPi4RmxKib2dy_xgpH5kU/view?usp=drive_link)
+You can download/view my CV as [PDF File](https://drive.google.com/file/d/1NBc3MRE4p3ghdxgm7DsKpSUhryHjjR6H/view?usp=drive_link)
 ## Skills
 You can find examples of the described skills in the [Example of my work](#examples-of-my-work) section.
 
