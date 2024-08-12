@@ -1,4 +1,4 @@
-#f03c15 # Portfolio
+# Portfolio
 - [About me](#about-me)
 - [CV](#cv)
 - [Skills](#skills)
