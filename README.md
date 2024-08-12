@@ -39,6 +39,10 @@ __API testing__
   * gained experience through manual testing of APIs in Postman
   * know how to manipulate requests and create test cases using the SoapUI tool
 
+__Performance testing__
+  * know how to run performance tests in tools like JMeter, Gatling etc.
+  * can analyse differnce load tests paremeters
+
 __Test analysis & design__
   * familiar with functional decomposition of products, creating state transition diagrams, writing use cases
   * can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
