@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio <p style="color: blue;">This text is blue</p>
 - [About me](#about-me)
 - [CV](#cv)
 - [Skills](#skills)
