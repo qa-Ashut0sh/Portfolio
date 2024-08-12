@@ -61,12 +61,15 @@ __Bug Mangements__
   * Jira
   * Bugzilla
   * Azure Devops
+    
 __API Testing__
   * Postman
   * SoapUI
+    
 __Load Testing__
   * Gatling
   * JMeter
+    
 __Database Testing__
   * MySQL
     
