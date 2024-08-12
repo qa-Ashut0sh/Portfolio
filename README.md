@@ -72,6 +72,7 @@ __Load Testing__
     
 __Database Testing__
   * MySQL
+
     
 ## Examples of my work
 ### Bug reports and test cases of work in Jira
