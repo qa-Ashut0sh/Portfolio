@@ -57,18 +57,18 @@ __SQL databases__
   * know the difference between joins and unions and can use them in queries
 ## Tools
 
-__Jira__
-  * know how to create bug reports
-  * able to create projects and track their progress
-  * able to write and execute test cases in Jira-zephyr
-    
-__Postman__
-  * know how to test api
-  * know how to use postman runner and check api performance
-    
-__Jmeter__
-  * know how to perfom load testing
-  * know how to genrate performance test reports
+__Bug Mangements__
+  * Jira
+  * Bugzilla
+  * Azure Devops
+__API Testing__
+  * Postman
+  * SoapUI
+__Load Testing__
+  * Gatling
+  * JMeter
+__Database Testing__
+  * MySQL
     
 ## Examples of my work
 ### Bug reports and test cases of work in Jira
