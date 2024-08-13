@@ -1,3 +1,4 @@
+![1723309318762](1723309318762.jpg)
 # Portfolio
 - [About me](#about-me)
 - [CV](#cv)
