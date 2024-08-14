@@ -23,7 +23,7 @@
 
 8. Regularly participating in international bug bounty programs, contributing to the security of software applications worldwide.
 
-9. Active LinkedIn influencer, consistently following and posting content related to software testing, quality assurance, and technology trends to foster industry knowledge and engagement.
+9. Active [LinkedIn influencer](https://www.linkedin.com/in/ashutosh-m-776905259/), consistently following and posting content related to software testing, quality assurance, and technology trends to foster industry knowledge and engagement.
 
 10. I continuously learn and grow within software testing to deliver optimal results and ensure customer satisfaction.
 ## CV
