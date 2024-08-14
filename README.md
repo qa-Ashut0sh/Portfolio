@@ -96,7 +96,7 @@ The below sample bugs are found in my last project, which was a shipping domain 
   * Bug #1. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1MF5nk3PN2rTo6es-ggwOkSqdpWVecqx4/view?usp=sharing).
   * Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1cxSpuiq7fJdJ6vMsxDxBJ4zhgB_viHsC/view?usp=sharing).
   * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Lzp0OVHE31IOOE_lTtLB_0HGdXvOS7ie/view?usp=sharing).
-  * Bug #4. Check [the screenshot of the bug report in Azure DevOps](https://drive.google.com/file/d/1fk3bcbl1xE30lTPcUKn9MsKEGv1bPFjh/view?usp=sharing)
+  * Bug #4. Check [the screenshot of the bug report in Azure DevOps](https://drive.google.com/file/d/1fk3bcbl1xE30lTPcUKn9MsKEGv1bPFjh/view?usp=sharing).
 #### Test Cases
 Here is a [pdf file](https://drive.google.com/file/d/1zvLkq5kLjTCiXM7apNjEXdVb1q9SAZMO/view?usp=drive_link), where you can view my sample test cases for all types of testing like API, UI and SQL.
 ## Additional Points
