@@ -31,7 +31,7 @@ You can download/view my CV as [PDF File](https://drive.google.com/file/d/1NBc3M
 ## Skills
 You can find examples of the described skills in the [Example of my work](#examples-of-my-work) section.
 
-__[Manual testing]__
+**__Manual testing__**
   * I can test the application's interface across multiple devices and browsers, ensuring a seamless user experience.
   * I can write and execute test cases to thoroughly evaluate the UI, catching issues before they reach the users.
   * By identifying and fixing usability issues early, it will help reduce user frustration, increasing the likelihood of positive reviews and repeat business.
