@@ -7,19 +7,19 @@
 - [Examples of my work](#examples-of-my-work)
 - [Additional Points](#additional-points)
 ## About me
-1. I'm a QA Engineer with **3.5 years** of experience in Software Testing, skilled in ensuring the delivery of high-quality software products(both web & mobile).
+1. I'm a Pro QA Engineer with **3.5 years** of experience in Software Testing for both Web and Mobile applications.
 
 2. Expertise in various testing areas, including **API**, **UI**, **Performance** and **Database**, ensuring thorough and practical testing.
 
 3. Proficient in writing, executing, and reviewing test cases; able to identify and report defects to support efficient bug resolution.
 
-4. Strong understanding of Software Testing Life Cycles, Agile Methodologies, and Testing Tools, ensuring efficient testing processes and effective communication with cross-functional teams.
+4. Strong understanding of Software Testing Life Cycles, Agile Methodologies, and Testing Tools.
 
 5. Domain expertise in EdTech, Healthcare, Shipping, and E-commerce, providing tailored solutions that meet the unique needs of each industry.
 
 6. Collaborates with development teams to meet quality assurance standards and deliver software products on time and within budget.
 
-7. A part-time content writer specializing in Software Testing articles, sharing insights and knowledge within the industry.
+7. I'm also a freelance content writer specializing in Tech articles, sharing insights and knowledge within the industry.
 
 8. Regularly participating in international bug bounty programs, contributing to the security of software applications worldwide.
 
