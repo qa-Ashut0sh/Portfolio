@@ -7,7 +7,7 @@
 - [Examples of my work](#examples-of-my-work)
 - [Additional Points](#additional-points)
 ## About me
-1. I'm a Pro QA Engineer with **3.5 years** of experience in Software Testing for both Web and Mobile applications.
+1. I'm a Pro QA Engineer with **4 years** of experience in Software Testing for both Web and Mobile applications.
 
 2. Expertise in various testing areas, including **API**, **UI**, **Performance** and **Database**, ensuring thorough and practical testing.
 
