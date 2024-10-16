@@ -1,11 +1,12 @@
 ![1723309318762](1723309318762.jpg)
 # Portfolio
-- [About me](#about-me)
-- [CV](#cv)
-- [Skills](#skills)
-- [Tools](#tools)
-- [Examples of my work](#examples-of-my-work)
-- [Additional Points](#additional-points)
+- 👤 [About me](#about-me)
+- 📄 [CV](#cv)
+- 🛠️ [Skills](#skills)
+- 🧰 [Tools](#tools)
+- 📊 [Examples of my work](#examples-of-my-work)
+- ➕ [Additional Points](#additional-points)
+
 ## About me
 1. I'm a Pro QA Engineer with **4 years** of experience in Software Testing for both Web and Mobile applications.
 
