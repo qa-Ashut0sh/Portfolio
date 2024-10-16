@@ -73,20 +73,20 @@ __Mobile Testing using Appium, Katalon__
     
 ## Tools
 
-__Bug Mangements__
+__🐛Bug Management__
   * Jira
   * Bugzilla
   * Azure Devops
     
-__API Testing__
+__🧬API Testing__
   * Postman
   * SoapUI
     
-__Load Testing__
+__🏋️Load Testing__
   * Gatling
   * JMeter
     
-__Database Testing__
+__💾Database Testing__
   * MySQL
 
     
