@@ -6,6 +6,35 @@
 - 🧰 [Tools](#tools)
 - 📊 [Examples of my work](#examples-of-my-work)
 - ➕ [Additional Points](#additional-points)
+  import React from 'react';
+import { User, FileText, Tool, Briefcase, PlusCircle, BarChart2 } from 'lucide-react';
+
+const PortfolioItem = ({ icon, text, link }) => (
+  <a href={link} className="flex items-center space-x-2 text-blue-600 hover:text-blue-800 transition-colors duration-200">
+    {icon}
+    <span>{text}</span>
+  </a>
+);
+
+const Portfolio = () => {
+  return (
+    <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100">
+      <div className="bg-white p-8 rounded-lg shadow-md">
+        <h1 className="text-3xl font-bold mb-6 text-center">Portfolio</h1>
+        <ul className="space-y-4">
+          <li><PortfolioItem icon={<User className="w-5 h-5" />} text="About me" link="#about-me" /></li>
+          <li><PortfolioItem icon={<FileText className="w-5 h-5" />} text="CV" link="#cv" /></li>
+          <li><PortfolioItem icon={<Tool className="w-5 h-5" />} text="Skills" link="#skills" /></li>
+          <li><PortfolioItem icon={<Briefcase className="w-5 h-5" />} text="Tools" link="#tools" /></li>
+          <li><PortfolioItem icon={<BarChart2 className="w-5 h-5" />} text="Examples of my work" link="#examples-of-my-work" /></li>
+          <li><PortfolioItem icon={<PlusCircle className="w-5 h-5" />} text="Additional Points" link="#additional-points" /></li>
+        </ul>
+      </div>
+    </div>
+  );
+};
+
+export default Portfolio;
 
 ## About me
 1. I'm a Pro QA Engineer with **4 years** of experience in Software Testing for both Web and Mobile applications.
