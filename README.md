@@ -112,5 +112,5 @@ I am also working as a freelancer/part-time blog article writer for one of my [U
 
 ## Contact Details
 * 🔗 [LinkedIn](https://www.linkedin.com/in/ashutosh-m-776905259/)
-* 📧 [ashutoshqatester@gmail.com](ashutoshqatester@gmail.com)
+* 📧 [ashutoshqatester@gmail.com](mailto:ashutoshmohantyod@gmail.com)
 * 🐱 [Github Portfolio](https://github.com/qa-Ashut0sh/Portfolio#portfolio)
