@@ -109,3 +109,6 @@ I am also working as a freelancer/part-time blog article writer for one of my [U
   * [Sample article #3](https://automatenow.io/what-is-git/)
 
 ## Contact Details
+* 🔗 [LinkedIn](https://www.linkedin.com/in/ashutosh-m-776905259/)
+* 📧 [ashutoshqatester@gmail.com](ashutoshqatester@gmail.com)
+* 🐱 [Github Portfolio](https://github.com/qa-Ashut0sh/Portfolio#portfolio)
