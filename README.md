@@ -6,6 +6,7 @@
 - 🧰 [Tools](#tools)
 - 📊 [Examples of my work](#examples-of-my-work)
 - ➕ [Additional Points](#additional-points)
+-     [Contact Details](#contact-details)
  
 ## About me
 1. I'm a Pro QA Engineer with **4 years** of experience in Software Testing for both Web and Mobile applications.
@@ -105,3 +106,5 @@ I am also working as a freelancer/part-time blog article writer for one of my [U
   * [Sample article #1](https://automatenow.io/what-is-automated-testing/)
   * [Sample article #2](https://automatenow.io/api-design-development-with-postman/)
   * [Sample article #3](https://automatenow.io/what-is-git/)
+
+## Contact Details
