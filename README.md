@@ -6,7 +6,7 @@
 - 🧰 [Tools](#tools)
 - 📊 [Examples of my work](#examples-of-my-work)
 - ➕ [Additional Points](#additional-points)
-- 👤 [Contact Details](#contact-details)
+- 📞 [Contact Details](#contact-details)
 
  
 ## About me
