@@ -1,13 +1,12 @@
 ![1723309318762](1723309318762.jpg)
-# <span style="color:yellow;">Portfolio</span>
-- 👤 [<span style="color:blue;">About me</span>](#about-me)
-- 📄 [<span style="color:blue;">CV</span>](#cv)
-- 🛠️ [<span style="color:blue;">Skills</span>](#skills)
-- 🧰 [<span style="color:blue;">Tools</span>](#tools)
-- 📊 [<span style="color:blue;">Examples of my work</span>](#examples-of-my-work)
-- ➕ [<span style="color:blue;">Additional Points</span>](#additional-points)
-- 📞 [<span style="color:blue;">Contact Details</span>](#contact-details)
-
+# Portfolio
+- 👤 [About me](#about-me)
+- 📄 [CV](#cv)
+- 🛠️ [Skills](#skills)
+- 🧰 [Tools](#tools)
+- 📊 [Examples of my work](#examples-of-my-work)
+- ➕ [Additional Points](#additional-points)
+- 📞 [Contact Details](#contact-details)
  
 ## About me
 1. I'm a Pro QA Engineer with **4 years** of experience in Software Testing for both Web and Mobile applications.
