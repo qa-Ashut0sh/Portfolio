@@ -29,7 +29,7 @@
 
 10. I continuously learn and grow within software testing to deliver optimal results and ensure customer satisfaction.
 
-| First Header  | Second Header |
+| Skills  | Tools |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
