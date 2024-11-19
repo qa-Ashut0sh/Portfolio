@@ -28,6 +28,10 @@
 9. Active [LinkedIn influencer](https://www.linkedin.com/in/ashutosh-m-776905259/), consistently following and posting content related to software testing, quality assurance, and technology trends to foster industry knowledge and engagement.
 
 10. I continuously learn and grow within software testing to deliver optimal results and ensure customer satisfaction.
+
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 ## CV
 You can download/view my CV as [PDF File](https://drive.google.com/file/d/1NBc3MRE4p3ghdxgm7DsKpSUhryHjjR6H/view?usp=drive_link)
 ## Skills
