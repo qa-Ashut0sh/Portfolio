@@ -31,8 +31,8 @@
 
 
 ## Skills & Tools
-|   Skills    |   Tools   |
-| ------------- | ------------- |
+|   Skills    |   Tools   |   What I Do?   |
+| ------------- | ------------- | ------------- |
 | API Testing  | Postman, SoapUI, Swagger |
 | Database Management  | MySQL, pgAdmin  |
 | Performance Testing  | JMeter, Gatling |
