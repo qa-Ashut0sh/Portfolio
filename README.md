@@ -34,11 +34,11 @@
 You can find examples of the described skills in the [Example of my work](#examples-of-my-work) section.
 |   Skills    |   Tools   |                     What I Do?                     |
 | ------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| API Testing  | Postman, SoapUI, Swagger |  |
-| Database Management  | MySQL, pgAdmin  | 1. Manage test databases with MySQL and pgAdmin4 <br> 2. Execute SQL queries for data validation <br> 3. Perform data migrations and backups <br> 4. Monitor database performance during tests |
+| 🧬API Testing  | Postman, SoapUI, Swagger |  |
+| 💾Database Management  | MySQL, pgAdmin  | 1. Manage test databases with MySQL and pgAdmin4 <br> 2. Execute SQL queries for data validation <br> 3. Perform data migrations and backups <br> 4. Monitor database performance during tests |
 | Automation Testing | Selenium(Java), Selenium IDE, Eclipse, IntelliJ  | 1. Perform basic automation testing using Selenium with Java <br> 2. Record and playback tests with Selenium IDE <br> 3. Execute scripts in Eclipse and IntelliJ for test automation |
-| Performance Testing  | JMeter, Gatling | 1. Run load & stress tests with JMeter and Gatling   <br>   2. Create test scripts to measure response times & throughput <br> 3. Analyze latency, response time, and error rates to find issues <br> 4. Generate performance reports to track performance trends <br> 5. Simulate user loads for capacity planning and system stability                                         |
-| Test Management | Jira, Azure DevOps, Trello, Bugzilla  | 1. Manage and track testing tasks using these tools <br> 2. Create and assign test cases to ensure thorough coverage <br> 3. Log and prioritize bugs for timely resolution <br> 4. Monitor progress and generate reports for better insights |
+| 🏋️Performance Testing  | JMeter, Gatling | 1. Run load & stress tests with JMeter and Gatling   <br>   2. Create test scripts to measure response times & throughput <br> 3. Analyze latency, response time, and error rates to find issues <br> 4. Generate performance reports to track performance trends <br> 5. Simulate user loads for capacity planning and system stability                                         |
+| 🐛Test Management | Jira, Azure DevOps, Trello, Bugzilla  | 1. Manage and track testing tasks using these tools <br> 2. Create and assign test cases to ensure thorough coverage <br> 3. Log and prioritize bugs for timely resolution <br> 4. Monitor progress and generate reports for better insights |
 ## CV
 You can download/view my CV as [PDF File](https://drive.google.com/file/d/1NBc3MRE4p3ghdxgm7DsKpSUhryHjjR6H/view?usp=drive_link)
 ## Skills
