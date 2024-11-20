@@ -27,6 +27,7 @@ You can download/view my CV as [PDF File](https://drive.google.com/file/d/1NBc3M
 ### Marine Regulations & Fleet Opearations | Client - Ocean Technology Group | Duration - 1 Year
 ### Railway Recruitment Management | Client - RRB, India | Duratiion - 2 Months
 ### Public Sector Software Solutions | Client - OPSC, Odisha | Duration - 2 Months
+### Health Information Systems | Client - NotINLine Technologies | Duartion - 6 Months
 ### Talent Acquisition & Univercity Management | Client - Hirekarma | Duartion - 1 Year
      
 ## Examples of my work
