@@ -24,9 +24,9 @@ You can download/view my CV as [PDF File](https://drive.google.com/file/d/1NBc3M
 
 ## My Projects
 ### Hospital Appointment, Event Management & RMS Solution | Client - AIIMS, Managalgiri | Duartion - Ongoing
-### Marine Regulations & Fleet Management | Client - Ocean Technology Group | Duration - 1 Year
-### Railway Recruitment | Client - RRB, India | Duratiion - 2 Months
-### Applicant Management | Client - OPSC, Odisha | Duration - 2 Months
+### Marine Regulations & Fleet Opearations | Client - Ocean Technology Group | Duration - 1 Year
+### Railway Recruitment Management | Client - RRB, India | Duratiion - 2 Months
+### Public Sector Software Solutions | Client - OPSC, Odisha | Duration - 2 Months
 ### Talent Acquisition & Univercity Management | Client - Hirekarma | Duartion - 1 Year
      
 ## Examples of my work
