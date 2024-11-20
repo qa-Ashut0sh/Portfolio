@@ -31,6 +31,7 @@
 
 
 ## Skills & Tools
+You can find examples of the described skills in the [Example of my work](#examples-of-my-work) section.
 |   Skills    |   Tools   |                     What I Do?                     |
 | ------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | API Testing  | Postman, SoapUI, Swagger |  |
@@ -41,7 +42,7 @@
 ## CV
 You can download/view my CV as [PDF File](https://drive.google.com/file/d/1NBc3MRE4p3ghdxgm7DsKpSUhryHjjR6H/view?usp=drive_link)
 ## Skills
-You can find examples of the described skills in the [Example of my work](#examples-of-my-work) section.
+
 
 __UI testing__
   * I can test the application's interface across multiple devices and browsers, ensuring a seamless user experience.
