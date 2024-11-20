@@ -38,6 +38,7 @@
 | Automation Testing | Selenium(Java), Selenium IDE, Eclipse, IntelliJ  | 1. Perform basic automation testing using Selenium with Java <br> 2. Record and playback tests with Selenium IDE <br> 3. Execute scripts in Eclipse and IntelliJ for test automation |
 | Performance Testing  | JMeter, Gatling | 1. Run load & stress tests with JMeter and Gatling   <br>   2. Create test scripts to measure response times & throughput <br> 3. Analyze latency, response time, and error rates to find issues <br> 4. Generate performance reports to track performance trends <br> 5. Simulate user loads for capacity planning and system stability                                         |
 | Test Management | Jira, Azure DevOps, Trello, Bugzilla  | 1. Manage and track testing tasks using these tools <br> 2. Create and assign test cases to ensure thorough coverage <br> 3. Log and prioritize bugs for timely resolution <br> 4. Monitor progress and generate reports for better insights |
+
 You can find examples of the described skills in the [Example of my work](#examples-of-my-work) section.
 
 ## CV
