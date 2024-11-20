@@ -23,7 +23,6 @@ I am a QA Engineer with 4 years of experience in functional and non-functional t
 You can download/view my CV as [PDF File](https://drive.google.com/file/d/1NBc3MRE4p3ghdxgm7DsKpSUhryHjjR6H/view?usp=drive_link)
     
 ## Examples of my work
-### Bug reports and test cases of work in Jira
 #### Bugs
 The below sample bugs are found across several projects of mine and reported in Jira and Azure DevOps:
   * Bug #1. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1MF5nk3PN2rTo6es-ggwOkSqdpWVecqx4/view?usp=sharing).
