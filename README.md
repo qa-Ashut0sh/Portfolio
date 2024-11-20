@@ -3,6 +3,7 @@
 - 👤 [About me](#about-me)
 - 🛠️ [Skills and Tools](#skills-and-tools)
 - 📄 [CV](#cv)
+- 📅 [My Projects](#my-projects)
 - 📊 [Examples of my work](#examples-of-my-work)
 - ➕ [Additional Points](#additional-points)
 - 📞 [Contact Details](#contact-details)
