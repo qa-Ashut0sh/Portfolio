@@ -24,12 +24,12 @@ I am a QA Engineer with 4+ years of experience in functional and non-functional 
 You can download/view my CV as [PDF File](https://drive.google.com/file/d/1NBc3MRE4p3ghdxgm7DsKpSUhryHjjR6H/view?usp=drive_link)
 
 ## My Projects
-#### Hospital Appointment, Event Management & RMS Solution | Client - AIIMS, Managalgiri | Duartion - Ongoing
-#### Marine Regulations & Fleet Opearations | Client - Ocean Technology Group | Duration - 1.5 Years
-#### Railway Recruitment Management | Client - RRB, India | Duratiion - 2 Months
-#### Public Sector Software Solutions | Client - OPSC, Odisha | Duration - 2 Months
-#### Health Information Systems | Client - NotInLine Technologies | Duartion - 6 Months
-#### Talent Acquisition & Univercity Management | Client - Hirekarma | Duartion - 1 Year
+Hospital Appointment, Event Management & RMS Solution | Client - AIIMS, Managalgiri | Duartion - Ongoing
+Marine Regulations & Fleet Opearations | Client - Ocean Technology Group | Duration - 1.5 Years
+Railway Recruitment Management | Client - RRB, India | Duratiion - 2 Months
+Public Sector Software Solutions | Client - OPSC, Odisha | Duration - 2 Months
+Health Information Systems | Client - NotInLine Technologies | Duartion - 6 Months
+Talent Acquisition & Univercity Management | Client - Hirekarma | Duartion - 1 Year
      
 ## Examples of my work
 ### Bugs
