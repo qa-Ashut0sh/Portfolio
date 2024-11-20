@@ -38,7 +38,7 @@
 | Performance Testing  | JMeter, Gatling |
 | Automation Testing | Selenium(Java), Selenium IDE, Eclipse, IntelliJ  |
 | Performance Testing  | JMeter, Gatling |
-| Test Management | Jira, Azure DevOps, Trello, Bugzilla  | 1. Manage and track testing tasks using these tools <br> 2. Create and assign test cases to ensure thorough coverage <br> Log and prioritize bugs for timely resolution <br> Monitor progress and generate reports for better insights |
+| Test Management | Jira, Azure DevOps, Trello, Bugzilla  | 1. Manage and track testing tasks using these tools <br> 2. Create and assign test cases to ensure thorough coverage <br> 3. Log and prioritize bugs for timely resolution <br> 4. Monitor progress and generate reports for better insights |
 ## CV
 You can download/view my CV as [PDF File](https://drive.google.com/file/d/1NBc3MRE4p3ghdxgm7DsKpSUhryHjjR6H/view?usp=drive_link)
 ## Skills
