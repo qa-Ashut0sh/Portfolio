@@ -8,23 +8,7 @@
 - 📞 [Contact Details](#contact-details)
  
 ## About me
-1. I'm a Pro QA Engineer with **4 years** of experience in Software Testing for both Web and Mobile applications.
-
-2. Expertise in various testing areas, including **API**, **UI**, **Performance** and **Database**, ensuring thorough and practical testing.
-
-3. Proficient in writing, executing, and reviewing test cases; able to identify and report defects to support efficient bug resolution.
-
-4. Strong understanding of Software Testing Life Cycles, Agile Methodologies, and Testing Tools.
-
-5. Domain expertise in EdTech, Healthcare, Shipping, and E-commerce, providing tailored solutions that meet the unique needs of each industry.
-
-6. Collaborates with development teams to meet quality assurance standards and deliver software products on time and within budget.
-
-7. I'm also a freelance content writer specializing in Tech articles, sharing insights and knowledge within the industry.
-
-8. Regularly participating in international bug bounty programs, contributing to the security of software applications worldwide.
-
-9. Active [LinkedIn influencer](https://www.linkedin.com/in/ashutosh-m-776905259/), consistently following and posting content related to software testing, quality assurance, and technology trends to foster industry knowledge and engagement.
+I am a QA Engineer with 4 years of experience in functional and non-functional testing across domains like shipping, healthcare, appointment scheduling, and EdTech. Through hard work and continuous learning, I’ve grown from a beginner to a skilled tester. I’ve handled large projects independently and worked effectively as part of a team. My expertise is also showcased in over 100 published tech articles. I bring the versatility of a pro all-rounder—like Hardik Pandya—who can bowl critical bugs toward developers and bat to defend applications, to ensure they remain bug-free.
 
 10. I continuously learn and grow within software testing to deliver optimal results and ensure customer satisfaction.
 
