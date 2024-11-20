@@ -33,7 +33,7 @@ The below sample bugs are found in my last project, which was a shipping domain 
 #### Test Cases
 Here is a [pdf file](https://drive.google.com/file/d/1zvLkq5kLjTCiXM7apNjEXdVb1q9SAZMO/view?usp=drive_link), where you can view my sample test cases for all types of testing like API, UI and SQL.
 ## Additional Points
-I am also working as a freelancer/part-time blog article writer for one of my [US client](https://automatenow.io/), written over 100+ articles in tech domain.
+I am also a freelancer/part-time blog article writer for one of my [US clients](https://automatenow.io/), and I have written over 100+ articles in the tech domain.
   * [Sample article #1](https://automatenow.io/what-is-automated-testing/)
   * [Sample article #2](https://automatenow.io/api-design-development-with-postman/)
   * [Sample article #3](https://automatenow.io/what-is-git/)
