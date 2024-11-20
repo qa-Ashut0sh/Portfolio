@@ -33,8 +33,8 @@
 ## Skills & Tools
 |   Skills    |   Tools   |   What I Do?   |
 | ------------- | ------------- | ------------- |
-| API Testing  | Postman, SoapUI, Swagger | 1. Manage and track testing tasks using these tools
-                                            2. Create and assign test cases to ensure thorough coverage |
+| API Testing  | Postman, SoapUI, Swagger | 1. Manage and track testing tasks using these tools |
+|                                           2. Create and assign test cases to ensure thorough coverage |
 | Database Management  | MySQL, pgAdmin  |
 | Performance Testing  | JMeter, Gatling |
 | Automation Testing | Selenium(Java), Selenium IDE, Eclipse, IntelliJ  |
