@@ -29,6 +29,8 @@
 
 10. I continuously learn and grow within software testing to deliver optimal results and ensure customer satisfaction.
 
+## Skills & Tools
+
 | Skills  | Tools |
 | ------------- | ------------- |
 | Content Cell  | Content Cell fsbdnbdndgndgndgnbgsdngssnsnnsnsn |
