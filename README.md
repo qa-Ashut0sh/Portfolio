@@ -21,6 +21,8 @@ I am a QA Engineer with 4 years of experience in functional and non-functional t
 
 ## CV
 You can download/view my CV as [PDF File](https://drive.google.com/file/d/1NBc3MRE4p3ghdxgm7DsKpSUhryHjjR6H/view?usp=drive_link)
+
+## My Projects
     
 ## Examples of my work
 ### Bugs
