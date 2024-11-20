@@ -23,8 +23,12 @@ I am a QA Engineer with 4 years of experience in functional and non-functional t
 You can download/view my CV as [PDF File](https://drive.google.com/file/d/1NBc3MRE4p3ghdxgm7DsKpSUhryHjjR6H/view?usp=drive_link)
 
 ## My Projects
-### Hospital Appointment, Event Management & RMS Solution | Client - AIIMS, Managalgiri | 2024 to Till
-    
+### Hospital Appointment, Event Management & RMS Solution | Client - AIIMS, Managalgiri | Duartion - Ongoing
+### Marine Regulations & Fleet Management | Client - Ocean Technology Group | Duration - 1 Year
+### Railway Recruitment | Client - RRB, India | Duratiion - 2 Months
+### Applicant Management | Client - OPSC, Odisha | Duration - 2 Months
+###
+     
 ## Examples of my work
 ### Bugs
 The below sample bugs are found across several projects of mine and reported in Jira and Azure DevOps:
