@@ -56,4 +56,4 @@ I am also a freelancer/part-time blog article writer for one of my [US clients](
 * 🐱 [Github Portfolio](https://github.com/qa-Ashut0sh/Portfolio#portfolio)
 
 
-*"There are so many certifications I’ve completed and so much work pressure right now, that I just can't seem to find the time to add the certification section. But don't worry, it will be added soon—once I finish testing the entire software world!"*
+*"Feel free to check out my LinkedIn for all the certifications I’ve earned. As for the certification section here, it’s still in progress—between handling work pressure and testing the software world, it's a bit delayed. But don't worry, it’s coming soon!"*
