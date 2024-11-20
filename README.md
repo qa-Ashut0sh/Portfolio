@@ -54,3 +54,6 @@ I am also a freelancer/part-time blog article writer for one of my [US clients](
 * 🔗 [LinkedIn](https://www.linkedin.com/in/ashutosh-m-776905259/)
 * 📧 [ashutoshqatester@gmail.com](mailto:ashutoshmohantyod@gmail.com)
 * 🐱 [Github Portfolio](https://github.com/qa-Ashut0sh/Portfolio#portfolio)
+
+
+*"There are so many certifications I’ve completed and so much work pressure right now, that I just can't seem to find the time to add the certification section. But don't worry, it will be added soon—once I finish testing the entire software world!"*
