@@ -23,6 +23,7 @@ I am a QA Engineer with 4 years of experience in functional and non-functional t
 You can download/view my CV as [PDF File](https://drive.google.com/file/d/1NBc3MRE4p3ghdxgm7DsKpSUhryHjjR6H/view?usp=drive_link)
 
 ## My Projects
+### Hospital Appointment, Event Management & RMS Solution | Client - AIIMS, Managalgiri | Duration - 2024 to Till
     
 ## Examples of my work
 ### Bugs
