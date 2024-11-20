@@ -2,7 +2,7 @@
 # Portfolio
 - 👤 [About me](#about-me)
 - 📄 [CV](#cv)
-- 🛠️ [Skills & Tools](#skills-&-tools)
+- 🛠️ [Skills and Tools](#skills-and-tools)
 - 📊 [Examples of my work](#examples-of-my-work)
 - ➕ [Additional Points](#additional-points)
 - 📞 [Contact Details](#contact-details)
@@ -29,7 +29,7 @@
 10. I continuously learn and grow within software testing to deliver optimal results and ensure customer satisfaction.
 
 
-## Skills & Tools
+## Skills and Tools
 |   Skills    |   Tools   |                     What I Do?                     |
 | ------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | API Testing  | Postman, SoapUI, Swagger | 1. Test APIs using Postman for functionality and performance <br> 2. Validate JSON/XML responses and status codes in Postman <br> 3. Ensure API compliance with Swagger during back-end testing <br> 4. Check error handling and edge cases in API responses <br> 5. Perform load testing on APIs to assess scalability <br> 6. Use Postman Runner for automated test execution |
