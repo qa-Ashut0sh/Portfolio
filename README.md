@@ -2,8 +2,7 @@
 # Portfolio
 - 👤 [About me](#about-me)
 - 📄 [CV](#cv)
-- 🛠️ [Skills](#skills)
-- 🧰 [Tools](#tools)
+- 🛠️ [Skills & Tools](#skills-&-tools)
 - 📊 [Examples of my work](#examples-of-my-work)
 - ➕ [Additional Points](#additional-points)
 - 📞 [Contact Details](#contact-details)
@@ -43,66 +42,6 @@ You can find examples of the described skills in the [Example of my work](#examp
 
 ## CV
 You can download/view my CV as [PDF File](https://drive.google.com/file/d/1NBc3MRE4p3ghdxgm7DsKpSUhryHjjR6H/view?usp=drive_link)
-## Skills
-
-
-__UI testing__
-  * I can test the application's interface across multiple devices and browsers, ensuring a seamless user experience.
-  * I can write and execute test cases to thoroughly evaluate the UI, catching issues before they reach the users.
-  * By identifying and fixing usability issues early, it will help reduce user frustration, increasing the likelihood of positive reviews and repeat business.
-  * I’ll ensure the brand maintains a professional image across all platforms through comprehensive visual consistency checks.
-
-__API testing__
-  * I can rigorously test the APIs using industry-standard tools, minimizing integration issues and ensuring smooth communication between systems.
-  * By implementing security and data validation tests, I can help protect the sensitive information and maintain data integrity.
-  * I know how to set up automated API tests, speeding up the development cycle and allowing for faster, more confident releases.
-
-__Performance testing__
-  * Using load testing tools, I can simulate high-traffic scenarios to identify and resolve performance bottlenecks, preventing system crashes during peak times.
-  * I can provide performance reports to help the clients to optimize infrastructure spending, ensuring they are prepared for growth without overinvesting.
-  * By fine-tuning the system’s performance under stress, it will help maintain fast response times even during high load.
-
-__Test analysis & design__
-  * Familiar with functional decomposition of products, creating state transition diagrams, writing use cases
-  * I can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
-
-__Test documentation__
-  * I can create test cases and checklists and know how and in which situations to use them effectively
-  * Able to prepare comprehensive bug reports and provide detailed session reports
-
-__Database Testing using SQL__
-  * Through database testing, I’ll ensure the integrity and security of THE critical business data, preventing data breaches or losses.
-  * I can optimize the database queries and operations, improving application performance and enhancing user experience.
-  * By testing data migration scripts and procedures, it will ensure smooth updates and transitions without disrupting business operations.
-
-__Automation Testing using Selenium, Selenium IDE, Eclipse, IntelliJ__
-  * I know how to develop automated test suites, catching bugs earlier in the development cycle and reducing time-to-market.
-  * By automating repetitive tests, it will help cut down on manual testing costs, allowing the team to focus on more complex tasks.
-  * I’ll integrate automated tests into CI/CD pipeline, providing consistent and reliable quality checks for the software releases.
-
-__Mobile Testing using Appium, Katalon__
-  * I can test across various mobile devices and OS versions, helping the clients to deliver a high-quality app.
-  * By identifying and resolving mobile-specific issues early, I’ll help to expand the market reach while minimizing development costs.
-  * Through automated mobile testing, I can enable faster iteration and updates, keeping the app competitive in the mobile marketplace.
-    
-## Tools
-
-__🐛Bug Management__
-  * Jira
-  * Bugzilla
-  * Azure Devops
-    
-__🧬API Testing__
-  * Postman
-  * SoapUI
-    
-__🏋️Load Testing__
-  * Gatling
-  * JMeter
-    
-__💾Database Testing__
-  * MySQL
-
     
 ## Examples of my work
 ### Bug reports and test cases of work in Jira
