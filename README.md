@@ -37,7 +37,7 @@
 | Database Management  | MySQL, pgAdmin  |
 | Performance Testing  | JMeter, Gatling |
 | Automation Testing | Selenium(Java), Selenium IDE, Eclipse, IntelliJ  |
-| Performance Testing  | JMeter, Gatling | 1. Design and run load, stress, and endurance tests with JMeter and Gatling <br> 2. Create performance test scripts to measure response times and throughput <br> 3. Integrate JMeter and Gatling with CI/CD pipelines for continuous testing <br> 4. Analyze latency, response time, and error rates to find bottlenecks <br> 5. Use parameterization, correlation, and distributed testing for scalability <br> 6. Generate reports and dashboards to track performance trends <br> Simulate user loads for capacity planning and system stability |
+| Performance Testing  | JMeter, Gatling | 1. Run load & stress tests with JMeter and Gatling <br> 2. Create performance tests to measure response times & throughput <br> 3. Analyze latency, response time, and error rates to find bottlenecks <br> 4. Generate reports and dashboards to track performance trends <br> 5. Simulate user loads for capacity planning and system stability      |
 | Test Management | Jira, Azure DevOps, Trello, Bugzilla  | 1. Manage and track testing tasks using these tools <br> 2. Create and assign test cases to ensure thorough coverage <br> 3. Log and prioritize bugs for timely resolution <br> 4. Monitor progress and generate reports for better insights |
 ## CV
 You can download/view my CV as [PDF File](https://drive.google.com/file/d/1NBc3MRE4p3ghdxgm7DsKpSUhryHjjR6H/view?usp=drive_link)
