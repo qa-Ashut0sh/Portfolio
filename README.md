@@ -10,9 +10,6 @@
 ## About me
 I am a QA Engineer with 4 years of experience in functional and non-functional testing across domains like shipping, healthcare, appointment scheduling, and EdTech. Through hard work and continuous learning, I’ve grown from a beginner to a skilled tester. I’ve handled large projects independently and worked effectively as part of a team. My expertise is also showcased in over 100 published tech articles. I bring the versatility of a pro all-rounder—like Hardik Pandya—who can bowl critical bugs toward developers and bat to defend applications, to ensure they remain bug-free.
 
-10. I continuously learn and grow within software testing to deliver optimal results and ensure customer satisfaction.
-
-
 ## Skills and Tools
 |   Skills    |   Tools   |                     What I Do?                     |
 | ------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
