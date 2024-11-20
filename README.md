@@ -29,6 +29,15 @@
 
 10. I continuously learn and grow within software testing to deliver optimal results and ensure customer satisfaction.
 
+
+## Skills & Tools
+| Skills  | Tools |
+| ------------- | ------------- |
+| API Testing  | Postman, SoapUI, Swagger |
+| Database Management  | MySQL, pgAdmin  |
+| Performance Testing  | JMeter, Gatling |
+| Automation Testing | Selenium, IntelliJ  |
+
 ## CV
 You can download/view my CV as [PDF File](https://drive.google.com/file/d/1NBc3MRE4p3ghdxgm7DsKpSUhryHjjR6H/view?usp=drive_link)
 ## Skills
