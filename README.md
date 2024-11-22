@@ -1,5 +1,6 @@
 ![1723309318762](1723309318762.jpg)
 # Portfolio
+![1723309318762](1723309318762.jpg)
 - 👤 [About me](#about-me)
 - 🛠️ [Skills and Tools](#skills-and-tools)
 - 📄 [CV](#cv)
