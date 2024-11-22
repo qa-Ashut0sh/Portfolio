@@ -26,7 +26,7 @@ Don't judge me based on skills or talents alone—there have been times when I f
 You can download/view my CV as [PDF File](https://drive.google.com/file/d/1NBc3MRE4p3ghdxgm7DsKpSUhryHjjR6H/view?usp=drive_link)
 
 ## My Projects
-#### [Hospital Appointment, Event Management & RMS Solution | Client - AIIMS, Managalgiri | Duartion - Ongoing](https://drive.google.com/file/d/1apo-eyV4DcuBKlDvV75UX3J8XCELt-l3/view?usp=sharing)
+#### Hospital Appointment, Event Management & RMS Solution | Client - AIIMS, Managalgiri | Duartion - Ongoing ([View](https://drive.google.com/file/d/1apo-eyV4DcuBKlDvV75UX3J8XCELt-l3/view?usp=sharing))
 #### Marine Regulations & Fleet Opearations | Client - Ocean Technology Group | Duration - 1.5 Years
 #### Railway Recruitment Management | Client - RRB, India | Duratiion - 2 Months
 #### Public Sector Software Solutions | Client - OPSC, Odisha | Duration - 2 Months
