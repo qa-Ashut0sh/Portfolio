@@ -9,7 +9,7 @@
 - ➕ [Additional Points](#additional-points)
 - 📞 [Contact Details](#contact-details)
  
-## <span style="color:blue;">About me</span>
+## ![About me](https://img.shields.io/badge/About%20me-blue)
 I am a QA Engineer with 4+ years of experience in functional and non-functional testing across domains like marine, healthcare, appointment scheduling, recruitment and EdTech. Through hard work and continuous learning, I’ve grown from a beginner to a skilled tester. I’ve handled large projects independently and also worked effectively as part of a team. My expertise is also showcased in over 100 published tech articles. I bring the versatility of a pro all-rounder like Hardik Pandya, who can bowl critical bugs toward developers and bat to defend applications.
 
 Don't judge me based on skills or talents alone—there have been times when I failed badly in many life incidents. But I am the type of person who can deliver optimal results even with limited resources. In short, I am a highly talented, well-mannered, average-looking, and bachelor QA tester who is ready to serve your organization if you pay me and my family well🧐.
