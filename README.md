@@ -59,5 +59,6 @@ I am also a freelancer/part-time blog article writer for one of my [US clients](
 [![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20Me%20a%20Coffee&emoji=&slug=qaashutosh&button_colour=FF813F&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/qaashutosh)
 
 *"Feel free to check out my LinkedIn for all the certifications I’ve earned. As for the certification section here, it’s still in progress—between handling work pressure and testing the software world, it's a bit delayed. But don't worry, it’s coming soon!"*
+
 ![Profile Views](https://komarev.com/ghpvc/?username=qa-Ashut0sh&color=blue&style=flat)
 
