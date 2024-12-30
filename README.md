@@ -60,5 +60,6 @@ I am also a freelancer/part-time blog article writer for one of my [US clients](
 
 *"Feel free to check out my LinkedIn for all the certifications I’ve earned. As for the certification section here, it’s still in progress—between handling work pressure and testing the software world, it's a bit delayed. But don't worry, it’s coming soon!"*
 
-![Portfolio Views](https://komarev.com/ghpvc/?username=qa-Ashut0sh&color=blue&style=flat)
+![Portfolio Views](https://komarev.com/ghpvc/?username=qa-Ashut0sh&color=blue&style=flat&label=Portfolio%20Views)
+
 
