@@ -31,7 +31,6 @@ You can download/view my CV as [PDF File](https://drive.google.com/file/d/1NBc3M
 #### Candidate Recruitment Platform and Support | Client - RRB, India | Duartion - On Going 
 #### Hospital Appointment, Event Management & RMS | Client - AIIMS, Managalgiri | Duartion - 6 Months ([View](https://drive.google.com/file/d/1apo-eyV4DcuBKlDvV75UX3J8XCELt-l3/view?usp=sharing))
 #### Marine Regulations & Fleet Opearations | Client - Ocean Technology Group | Duration - 1.5 Years
-#### Railway Recruitment Management | Client - RRB, India | Duratiion - 2 Months
 #### Public Sector Software Solutions | Client - OPSC, Odisha | Duration - 2 Months
      
 ## Examples of my work
